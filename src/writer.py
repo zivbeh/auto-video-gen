@@ -1,4 +1,4 @@
-from moviepy.editor import ImageSequenceClip, AudioFileClip
+from moviepy.editor import *
 
 frame_rate = 24
 # Load images
