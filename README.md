@@ -10,4 +10,4 @@ The prompt can be a the topic of the video, I will use chat gpt to generate a sc
 
   Email: autovidgenbusiness@gmail.com
   
-  Password: autovidgen
+  Password: 
