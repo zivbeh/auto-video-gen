@@ -3,7 +3,9 @@ python upload_video.py --file="/Users/zivbe/Documents/automatic-video-gen/src/ou
 
 ## video file must be in the same directory as the upload py file
 
+## API key for chatGPT - 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 
 
 https://www.youtube.com/watch?v=aFwZgth790Q - youtube api setup
 
 https://www.youtube.com/watch?v=bMT9ZC9sBzI - a guy that made a similar thing a year ago with reddit
+
